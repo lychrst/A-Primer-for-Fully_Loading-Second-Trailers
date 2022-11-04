@@ -7,7 +7,7 @@ Author: Chris Lyons, April, 2022
 
 ### Repo Contents
 - [Primer For Fully-Loading Second Trailers Jupyter NotebooK](https://github.com/lychrst/A-Primer-for-Fully_Loading-Second-Trailers/blob/master/A_Primer_for_Fully-Loading_Second_Trailers.ipynb)
-- [images]
+- [images](https://github.com/lychrst/A-Primer-for-Fully_Loading-Second-Trailers/tree/master/images)
 
 ### Table of Contents  
 
